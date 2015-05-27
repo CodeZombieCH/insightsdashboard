@@ -1,0 +1,14 @@
+.gradle
+.keystore
+.idea
+.DS_Store
+
+/build
+/captures
+/local.properties
+
+gradle/
+gradlew
+gradlew.bat
+
+app/*.apk
